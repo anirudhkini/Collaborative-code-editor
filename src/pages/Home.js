@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className="homePageWrapper">
       <div className="formWrapper">
-        <img src="/codeCollab-img.png" alt="code-collab-img" />
+        <img className="homePageLogo" src="/codeCollab-img.png" alt="code-collab-img" />
         <h4 className='mainLabel'>Paste codeCollab ID</h4>
         <div className='inputGroup'>
           <input type='text' className='inputBox' placeholder='codeCollab ID'></input>

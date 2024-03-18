@@ -8,7 +8,7 @@
 .formWrapper{
   background-color:#9598ed;
   padding: 20px;
-  border-radius: 10px;
+  border-radius: 8px;
   width: 450px;
   max-width: 90%;
 }
@@ -40,7 +40,7 @@ footer a{
 
 .inputBox{
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 4px;
   outline: none;
   border: none;
   margin-bottom: 9px;
@@ -51,7 +51,7 @@ footer a{
 .btn{
   border:none;
   padding:9px;
-  border-radius: 10px;
+  border-radius: 7px;
   size: 16px;
   cursor: pointer;
   transition:all 0.3s ease-in-out;
@@ -64,7 +64,7 @@ footer a{
 }
 
 .joinBtn:hover{
-  background-color: #70e21f;
+  background-color: #3de971;
 }
 
 .createInfo{

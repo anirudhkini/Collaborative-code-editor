@@ -11,4 +11,3 @@ const Client = ({username}) => {
 };
 
 export default Client;
-//

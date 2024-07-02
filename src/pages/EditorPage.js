@@ -21,6 +21,9 @@ const EditorPage = () => {
             }
          </div>
       </div>
+      <button className='btn copyBtn'>Copy codeCollab ID</button>
+      <button className='btn leaveBtn'>Leave Room</button>
+
     </div>
     <div className='editorWrap'>Editor goes here</div>
   </div>

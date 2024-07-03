@@ -1,4 +1,4 @@
-To run:
+To run:  
 cd client -> npm install -> npm start  
 cd server -> npm i nodemon -> npm start
 

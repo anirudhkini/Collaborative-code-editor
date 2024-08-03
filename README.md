@@ -1,3 +1,2 @@
 Future implementations:
-1. Code compiler
-2. Highlighting, themes
+1. Input terminal
